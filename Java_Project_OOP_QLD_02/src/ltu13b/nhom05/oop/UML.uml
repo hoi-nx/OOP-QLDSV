@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="661.0" y="336.0">ltu13b.nhom05.oop.object.DiemMonHocTinChi</node>
+    <node x="0.0" y="347.0">ltu13b.nhom05.oop.object.DiemMonHocNienChe</node>
+    <node x="387.0" y="380.0">ltu13b.nhom05.oop.object.SinhVien</node>
+    <node x="698.0" y="156.5">ltu13b.nhom05.oop.object.MonHocTinChi</node>
+    <node x="397.60576923076917" y="0.0">ltu13b.nhom05.oop.object.MonHoc</node>
+    <node x="92.0" y="604.0">ltu13b.nhom05.oop.object.SinhVienNienChe</node>
+    <node x="212.75" y="784.0">ltu13b.nhom05.oop.object.QuanLy</node>
+    <node x="89.0" y="179.0">ltu13b.nhom05.oop.object.MonHocNienChe</node>
+    <node x="638.75" y="593.0">ltu13b.nhom05.oop.object.SinhVienTinChi</node>
+    <node x="326.25" y="124.0">ltu13b.nhom05.oop.object.ConNguoi</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ltu13b.nhom05.oop.object.QuanLy" target="ltu13b.nhom05.oop.object.SinhVienNienChe">
+      <point x="-174.375" y="-147.5" />
+      <point x="270.875" y="759.0" />
+      <point x="229.0" y="759.0" />
+      <point x="0.0" y="59.5" />
+    </edge>
+    <edge source="ltu13b.nhom05.oop.object.SinhVienNienChe" target="ltu13b.nhom05.oop.object.SinhVien">
+      <point x="68.5" y="-59.5" />
+      <point x="297.5" y="568.0" />
+      <point x="429.3333333333333" y="568.0" />
+      <point x="-84.66666666666669" y="59.5" />
+    </edge>
+    <edge source="ltu13b.nhom05.oop.object.SinhVien" target="ltu13b.nhom05.oop.object.ConNguoi">
+      <point x="0.0" y="-59.5" />
+      <point x="514.0" y="311.0" />
+      <point x="504.75" y="311.0" />
+      <point x="59.5" y="81.0" />
+    </edge>
+    <edge source="ltu13b.nhom05.oop.object.SinhVienTinChi" target="ltu13b.nhom05.oop.object.DiemMonHocTinChi">
+      <point x="58.75" y="-70.5" />
+      <point x="0.0" y="103.5" />
+    </edge>
+    <edge source="ltu13b.nhom05.oop.object.SinhVienNienChe" target="ltu13b.nhom05.oop.object.DiemMonHocNienChe">
+      <point x="-68.5" y="-59.5" />
+      <point x="0.0" y="92.5" />
+    </edge>
+    <edge source="ltu13b.nhom05.oop.object.QuanLy" target="ltu13b.nhom05.oop.object.ConNguoi">
+      <point x="-58.125" y="-147.5" />
+      <point x="387.125" y="759.0" />
+      <point x="376.5" y="759.0" />
+      <point x="376.5" y="311.0" />
+      <point x="385.75" y="311.0" />
+      <point x="-59.5" y="81.0" />
+    </edge>
+    <edge source="ltu13b.nhom05.oop.object.SinhVienTinChi" target="ltu13b.nhom05.oop.object.SinhVien">
+      <point x="-58.75" y="-70.5" />
+      <point x="697.5" y="568.0" />
+      <point x="598.6666666666667" y="568.0" />
+      <point x="84.66666666666669" y="59.5" />
+    </edge>
+    <edge source="ltu13b.nhom05.oop.object.QuanLy" target="ltu13b.nhom05.oop.object.SinhVienTinChi">
+      <point x="174.375" y="-147.5" />
+      <point x="619.625" y="759.0" />
+      <point x="756.25" y="759.0" />
+      <point x="0.0" y="70.5" />
+    </edge>
+    <edge source="ltu13b.nhom05.oop.object.QuanLy" target="ltu13b.nhom05.oop.object.SinhVien">
+      <point x="58.125" y="-147.5" />
+      <point x="503.375" y="759.0" />
+      <point x="514.0" y="759.0" />
+      <point x="0.0" y="59.5" />
+    </edge>
+    <edge source="ltu13b.nhom05.oop.object.MonHocNienChe" target="ltu13b.nhom05.oop.object.MonHoc">
+      <point x="0.0" y="-26.0" />
+      <point x="160.5" y="99.0" />
+      <point x="440.85576923076917" y="99.0" />
+      <point x="-43.25" y="37.0" />
+    </edge>
+    <edge source="ltu13b.nhom05.oop.object.DiemMonHocTinChi" target="ltu13b.nhom05.oop.object.MonHocTinChi">
+      <point x="0.0" y="-103.5" />
+      <point x="0.0" y="48.5" />
+    </edge>
+    <edge source="ltu13b.nhom05.oop.object.MonHocTinChi" target="ltu13b.nhom05.oop.object.MonHoc">
+      <point x="0.0" y="-48.5" />
+      <point x="815.0" y="99.0" />
+      <point x="527.3557692307692" y="99.0" />
+      <point x="43.25" y="37.0" />
+    </edge>
+    <edge source="ltu13b.nhom05.oop.object.DiemMonHocNienChe" target="ltu13b.nhom05.oop.object.MonHocNienChe">
+      <point x="0.0" y="-92.5" />
+      <point x="0.0" y="26.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="60.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
